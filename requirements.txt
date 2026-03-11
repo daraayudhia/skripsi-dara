@@ -6,3 +6,4 @@ numpy
 pdfplumber
 seaborn
 plotly
+streamlit-option-menu
